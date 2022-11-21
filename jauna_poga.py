@@ -1,1 +1,2 @@
 Rinda
+Otrā rinda
